@@ -86,7 +86,23 @@ import random
 
 -Program akan terus mencari angka terbesar tapi ketika sudah memasukkan angka 0 program akan berhenti dan menampilkan angka terbesar
 
+![Screenshot (91)](https://user-images.githubusercontent.com/115516617/200157515-65926baf-a537-4572-81e8-e498a5a9d204.png)
 
+# Hasil latihan 2
+
+![Screenshot (92)](https://user-images.githubusercontent.com/115516617/200157547-b30d1525-e95c-4269-9ff5-3618015f62c9.png)
+
+# Latihan 3
+
+-buat rumus presentase keuntungan tiap bulannya
+
+![Screenshot (93)](https://user-images.githubusercontent.com/115516617/200157587-8b1f0f81-05d1-47d7-bc64-ce100f7499e6.png)
+
+# Hasil latihan 3
+
+![Screenshot (94)](https://user-images.githubusercontent.com/115516617/200157621-4b0fecc0-22e1-4a3e-b60e-803087190e39.png)
+
+Sekian.
 
 
 
